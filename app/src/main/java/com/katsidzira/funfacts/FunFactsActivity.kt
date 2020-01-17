@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
 
             factTextView!!.text = fact
             relativeLayout!!.setBackgroundColor(color)
+            showFactButton!!.setTextColor(color)
         }
     }
 
